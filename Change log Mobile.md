@@ -1,5 +1,14 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
 
+16/10/2023
+- 1090: Thay đổi thứ tự cột datagird Mặt hàng
+- 1093: Update edit mã/tên nóm/mặt hàng, tên KH/CTY 
+- 1094: SL giao thực phiếu giao
+- 1095: Reset filter
+- 1102: Mobile không thêm HD vào phiếu giao
+- 1083: Bỏ bắt buộc SL uy đổi và trọng lượng quy đổi
+
+
 13/10/2023
 - #1076: fix bug UI Mã Số Thuế ở HD( chuyển từ number về string)
 - #1081: Cho phéo GDKD edit mã mặt hàng và nhóm hàng
@@ -18,5 +27,3 @@
 - #993: Thêm filter trạng thái cho BC thanh toán
 - #988: Thêm tính năng version HD
 - #942: Hiển thị HD khi có PLHD duyệt
-
-
