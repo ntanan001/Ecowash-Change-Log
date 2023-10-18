@@ -1,5 +1,14 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
 
+18/10/2023
+- 1040: Nhập số cân = tay
+- 1075: Thêm giá giặt khô( Chỉ ở HD, chưa bao gồm báo cáo)
+- fix bug: 1025 1026 1027 1129 và 1132
+
+17/10/2023
+- 1072: Autofill thời gian giao nhận từ KH vào HD(Chỉ với HD mới)
+- 1099: Autofill mặt hàng từ KH vào HD(Chỉ với HD mới)
+- 1107: Fix lỗi số trang filter khi mặt hàng/nhóm hàng
 
 16/10/2023
 - 1090: Thay đổi thứ tự cột datagird Mặt hàng
