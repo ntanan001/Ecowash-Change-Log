@@ -1,4 +1,8 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
+19/10/2023
+- 1138: Thêm scrollbar cho Danh sách mặt hàng trong HD
+- 1135, 1137: Điều chỉnh độ rộng cột data(Danh mục và Khách hàng)
+- 1075: Bổ sung file import mặt hàng trong HD
 
 18/10/2023
 - 1040: Nhập số cân = tay
