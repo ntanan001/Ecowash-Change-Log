@@ -1,4 +1,12 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
+
+20/10/2023
+- 1065: Báo cáo trọng lượng cân theo ngày
+- 1097: Tắt xuống dòng khi chọn mặt hàng trong HD
+- 1163, 1140:Thu gọn khoảng cách giữa các dòng dữ liệu ở HD/PLHD
+- 1091: Cho phép hoàn thành phiếu sạch khi phiếu dơ đã hoàn thành
+
+
 19/10/2023
 - 1138: Thêm scrollbar cho Danh sách mặt hàng trong HD
 - 1135, 1137: Điều chỉnh độ rộng cột data(Danh mục và Khách hàng)
