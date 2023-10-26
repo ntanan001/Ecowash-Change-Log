@@ -1,5 +1,22 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
 
+26/10/2023: 
+- 1213: Thêm tính năng sao chép mặt hàng
+- 1216: Fix validate input ở Nhóm hàng và mặt hàng
+- 1174: Điều chỉnh mặt hàng trong HD: Thêm DVT, sort theo mặt hàng thường dùng
+
+25/10/2023
+- 1044: Repondsive mobile cho Phiếu hàng và QTSX
+- 1197: Gom btn Thêm mới
+- 1180 1191 1192
+
+24/10/2023
+- 1171: Thay đổi icon X, canh giữa tittle và thu hẹp độ rộng dòng ở KH và HD
+- 1144, 1145: fix lỗi về loading trên các màn hình danh sách
+- 1196: Chỉnh sửa filter
+- 1182: Đồng bộ font size ở filter
+- 1176: Sort danh sách HD theo độ ưu tiên
+
 20/10/2023
 - 1065: Báo cáo trọng lượng cân theo ngày
 - 1097: Tắt xuống dòng khi chọn mặt hàng trong HD
