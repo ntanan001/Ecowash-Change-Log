@@ -1,5 +1,9 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
 
+03/11/2023: 
+- 1257: Thay đổi cách gen mã phiếu giao/nhận
+- 1140: Thu gọn thông tin các màn hình 
+
 31/10/23023
 - 1217: Điều chỉnh UI btn
 - 
