@@ -4,14 +4,20 @@
 - 1257: Thay đổi cách gen mã phiếu giao/nhận
 - 1140: Thu gọn thông tin các màn hình 
 
+01/10/2023
+- 1235: Mặc định 1 dòng data.
+
 31/10/23023
 - 1217: Điều chỉnh UI btn
-- 
+- 1225: Fix fontsize ở NV và phòng ban
+- 1212:[Tiến độ] Thu gọn dòng, thêm dòng tổng
+- 1214: Thay đổi tên file khi xuất Tổng hợp cân
+
 30/10/2023
-- 1194: Điều chỉnh UI KH
+- 1194: Điều chỉnh UI KH đồng bộ theo HD
 
 27/10/2023:
-- 1142: Fix flow tar3 hàng không hiển thị các phiếu đã hoàn thành nhưng chưa giao xong 
+- 1142: Fix bug Trả hàng không hiển thị các phiếu đã hoàn thành nhưng chưa giao xong 
 
 26/10/2023: 
 - 1213: Thêm tính năng sao chép mặt hàng
