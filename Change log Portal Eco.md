@@ -1,12 +1,21 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
 
+31/10/23023
+- 1217: Điều chỉnh UI btn
+- 
+30/10/2023
+- 1194: Điều chỉnh UI KH
+
+27/10/2023:
+- 1142: Fix flow tar3 hàng không hiển thị các phiếu đã hoàn thành nhưng chưa giao xong 
+
 26/10/2023: 
 - 1213: Thêm tính năng sao chép mặt hàng
 - 1216: Fix validate input ở Nhóm hàng và mặt hàng
 - 1174: Điều chỉnh mặt hàng trong HD: Thêm DVT, sort theo mặt hàng thường dùng
 
 25/10/2023
-- 1044: Repondsive mobile cho Phiếu hàng và QTSX
+- 1044: Responsive mobile cho Phiếu hàng và QTSX
 - 1197: Gom btn Thêm mới
 - 1180 1191 1192
 
