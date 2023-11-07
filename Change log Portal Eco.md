@@ -1,5 +1,13 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
 
+07/11/2023
+- 1304: Sắp xếp DS phiếu theo thời gian giao nhận
+- 1306: Phiếu dơ: Highlight Mặt hàng dù HD hết hạn
+- 1184: Thiết lập HDSD
+- 1198: Thiết lập cảnh báo hết hạn HD( Chỉ có thiết lập, chưa có Noti)
+- 1236: Điều chỉnh font size hệ thống
+- fix bug: 1269, 1271, 1233
+
 03/11/2023: 
 - 1257: Thay đổi cách gen mã phiếu giao/nhận
 - 1140: Thu gọn thông tin các màn hình 
