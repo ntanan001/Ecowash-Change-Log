@@ -1,5 +1,10 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
 
+08/11/2023
+- 1312: HD: bỏ hạn chế duyệt HD có ngày hiệu lực < Today
+- 1229: Điều chỉnh UI BC thanh toán
+- 1275: Thêm scroll bar cho danh sách mặt hàng phiếu hàng 
+
 07/11/2023
 - 1304: Sắp xếp DS phiếu theo thời gian giao nhận
 - 1306: Phiếu dơ: Highlight Mặt hàng dù HD hết hạn
