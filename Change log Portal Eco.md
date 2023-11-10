@@ -1,5 +1,8 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
 
+09/11/2023
+- 1075, 1184, 1195, 1115, 1116, 1123: Update công thức tính và form Báo cáo
+
 08/11/2023
 - 1312: HD: bỏ hạn chế duyệt HD có ngày hiệu lực < Today
 - 1229: Điều chỉnh UI BC thanh toán
