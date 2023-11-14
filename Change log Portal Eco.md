@@ -1,5 +1,10 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
 
+14/11/2023
+- 1349: Điều chỉnh DVT HD
+- 1355: Fix lỗi duplicate lịch hiện trường
+- 1357, 1356, 1347, 1334, 1359: Fix lỗi HD 
+
 09/11/2023
 - 1075, 1184, 1195, 1115, 1116, 1123: Update công thức tính và form Báo cáo
 
