@@ -1,5 +1,8 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
 
+16/11/2023
+- 1367: tắt auto suggest trình duyệt
+
 14/11/2023
 - 1349: Điều chỉnh DVT HD
 - 1355: Fix lỗi duplicate lịch hiện trường
