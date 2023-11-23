@@ -1,4 +1,7 @@
 # Ecowash Change Log ---- Thông tin build cho Ecowash
+22/11/2023
+- 1360: Điều chỉnh UI seletion box
+- 
 
 21/11/2023
 - 1352: uplaod biên bảnh thanh lý HD
