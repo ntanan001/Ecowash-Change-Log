@@ -1,8 +1,7 @@
-# Ecowash Change Log ---- Thông tin build cho Ecowash
+# Ecowash Change Log ---- Thông tin build cho Ecowash Driver app production
 
 
 12/10/2023
-- Driver app
 + Thêm màn hình đăng kí( Chỉ có UI)
 + Fix bug về chụp hình
 
