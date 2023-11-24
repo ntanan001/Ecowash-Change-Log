@@ -1,21 +1,22 @@
-# Ecowash Change Log ---- Thông tin build cho Ecowash
+# Ecowash Portal Change Log
 
 24/11/2023
 - 1375: Bổ xung BC cân hàng theo khoảng thời gian
+- 1370: Bỏ validate bắt buộc quy đổi khi duyệt HD
 
 22/11/2023
 - 1360: Điều chỉnh UI seletion box
 
 21/11/2023
-- 1352: uplaod biên bảnh thanh lý HD
+- 1352: upload biên bản thanh lý HD
 - 1378: Bỏ thanh toán theo đồ dơ
 - 1162: Thay đổi về Lưu mặt hàng thường dùng
 - 1377: Ưu tiên filter tuyệt đối với mặt hàng, nhóm hàng, NV
 
 
 20/11/2023
-- 1313: Thay đổi hiển thị hình ảnh phiếu: Xoay, phóng
-- 1295: Xuất danh sách mặt hàng
+- 1313: Thay đổi hiển thị hình ảnh phiếu hàng: Xoay, phóng
+- 1295: HD: Xuất danh sách mặt hàng
 
 16/11/2023
 - 1367: tắt auto suggest trình duyệt
