@@ -1,4 +1,8 @@
 # Ecowash Portal Change Log
+28/11/2023
+- 1364: Nhập DV khác cho HD
+- 1341: thay đổi avata mặc định
+- 1416: Thêm hình thức giặt ủi cho loại hàng Linen
 
 24/11/2023
 - 1375: Bổ xung BC cân hàng theo khoảng thời gian
