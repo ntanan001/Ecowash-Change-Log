@@ -1,7 +1,11 @@
 # Ecowash Portal Change Log
+
+01/12/2023
+- 1372: Điều chỉnh UI table
+
 30/11/2023
 - 1429: Điều chỉnh UI DS HD
-- 1417: tahy đổi paging mặc định 20->25
+- 1417: Thay đổi paging mặc định 20->25
 
 29/11/2023
 - 1422: Hạn chế validate nhóm NVHT
