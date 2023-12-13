@@ -1,4 +1,4 @@
-# Ecowash Portal Change Log
+ # Ecowash Portal Change Log
 
 01/12/2023
 - 1372: Điều chỉnh UI table
