@@ -1,5 +1,24 @@
  # Ecowash Portal Change Log
 
+
+
+
+
+
+08/01/2024
+- 1656: Đánh index và sắp xếp DS mặt hàng
+- 1543, 1544: Điều chỉnh cột màn hình Đóng gói, Đã đóng gói
+
+
+03/01/2024:
+- 1858: DS mặt hàng mặc định
+- 1670: Bỏ quy trình cân Uni và Guest
+
+02/01/2024
+- 1620: Autofill Mã/tên KH vào chi nhánh
+- 1611: autoill DVT hàng linen khi thay đổi hình thức thanh toán
+- 1576: Kiểm tra kết nối Misa
+
 01/12/2023
 - 1372: Điều chỉnh UI table
 
